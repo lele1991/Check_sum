@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1512760064 source:c:\users\lêfeiosa\desktop\trab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
+1513040332 c:\users\lêfeiosa\desktop\trab3\arquivo.h
+
+1513039597 source:c:\users\lêfeiosa\desktop\trab3\arquivo.c
+	"arquivo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513187580 source:c:\users\lêfeiosa\google drive\ifsc - fases\prog 1\trabalhos\t3 - file\trab3\arquivo.c
+	"arquivo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513085915 c:\users\lêfeiosa\google drive\ifsc - fases\prog 1\trabalhos\t3 - file\trab3\arquivo.h
+
+1512760064 source:c:\users\lêfeiosa\google drive\ifsc - fases\prog 1\trabalhos\t3 - file\trab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
+1513166776 source:c:\users\lêfeiosa\desktop\ifsc\4° fase\prog 1\trabalhos\t3 - file\trab3\arquivo.c
+	"arquivo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513064314 c:\users\lêfeiosa\desktop\ifsc\4° fase\prog 1\trabalhos\t3 - file\trab3\arquivo.h
+
+1512738464 source:c:\users\lêfeiosa\desktop\ifsc\4° fase\prog 1\trabalhos\t3 - file\trab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
